@@ -30,7 +30,6 @@
             <id>github</id>
             <name>GitHub Packages</name>
             <url>https://maven.pkg.github.com/ceajay09/shared-backend-parent</url>
-            <url>https://github.com/ceajay09/shared-backend-parent.git</url>
         </repository>
     </distributionManagement>
 
